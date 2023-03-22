@@ -1,5 +1,5 @@
 #!/bin/bash
-# simple adder caculators
+# simple adder caculators 1
 echo -n "please enter the first number:"
 read num1
 echo -n "please enter the second number:"
